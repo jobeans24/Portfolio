@@ -11,6 +11,7 @@ function About() {
         </p>
         <p>
           I am a Full Stack web developer who recently graduated from George Washington University Coding Bootcamp. I have experience with HTML, CSS, JavaScript, Node.js, Express.js, SQL, and MongoDB. I am excited to continue learning and growing as a developer.
+          As a fast learner with prior experience in the Service industry I have become quick on my feet and easily able to adapt to new situations. I am a team player and enjoy working with others to solve problems and create new and exciting projects.
         </p>
       </div>
     </section>

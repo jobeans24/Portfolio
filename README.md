@@ -39,4 +39,8 @@ So that an employer can assess whether or not I am a good candidate for an open 
 This application is a Portfolio that holds work that I have done as a front and back-end developer. The Portfolio holds several projects I have worked on, as well as my contact information and several accounts that users can access through the application footer. The Portfolio is meant to provide employers with work I have completed as a front and back-end developer, it allows them to see the capabilities I have in coding. 
 
 ## Application Images
-![alt text](image.png)
+![About Me Screen](/src/assets/README-Images/About.png)
+![Portfolio Screen](/src/assets/README-Images/Portfolio.png)
+![Contact Screen](/src/assets/README-Images/Contact.png)
+![Resume Screen](/src/assets/README-Images/Resume.png)
+
