@@ -3,7 +3,7 @@ function About() {
     <section className="my-5">
       <div className="my-2">
         <div className="profile-img my-5">
-          <i className="IconImage" style={{ fontSize: "96px"}}>A little Glimpse of Me</i>
+          <i src= {require("../assets/profile/IconImsge.png")} style={{ fontSize: "96px"}}>A little Glimpse of Me</i>
         </div>
         <p>
           Josie Zobel 
