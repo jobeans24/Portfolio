@@ -18,23 +18,23 @@ function Portfolio() {
       repo: "https://github.com/jobeans24/Password-Generater"
     },
     {
-      name: 'runBuddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'SocialClub',
+      description: 'Backend/Express/Node.js/Insomnia/NoSQL/MongoDB',
+      link: "the videos of the deployed backend are within the README.md file",
+      repo: "https://github.com/jobeans24/SocialClub"
     },
     {
-      name: 'ledWall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
-    },
-    {
-      name: 'Payroll Tracker',
+      name: 'PayrollTracker',
       description: 'JavaScript/HTML/CSS',
       link: "https://jobeans24.github.io/Payroll-Tracker/",
       repo: "https://github.com/jobeans24/Payroll-Tracker"
     },
+    {
+      name: 'PersonalBlog',
+      description: 'Web APIs/HTML/CSS/JavaScript',
+      link: "https://jobeans24.github.io/Personal-Blog/",
+      repo: "https://github.com/jobeans24/Personal-Blog"
+    }
   ]);
 
   return (

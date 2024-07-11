@@ -36,7 +36,6 @@ So that an employer can assess whether or not I am a good candidate for an open 
 
 ## Description
 
-
+This application is a Portfolio that holds work that I have done as a front and back-end developer. The Portfolio holds several projects I have worked on, as well as my contact information and several accounts that users can access through the application footer. The Portfolio is meant to provide employers with work I have completed as a front and back-end developer, it allows them to see the capabilities I have in coding. 
 
 ## Application Images
-

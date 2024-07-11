@@ -1,5 +1,6 @@
-export { default as calculator } from './projects/calculator.jpg';
-export { default as ledWall } from './projects/ledWall.jpg';
-export { default as pastelPuzzels } from './projects/pastelPuzzels.jpg';
-export { default as runBuddy } from './projects/runBuddy.jpg';
-export { default as surfReport } from './projects/surfReport.jpg';
+export {default as TextEditor} from './projects/TextEditor.png';
+export {default as PasswordGenerator} from './projects/PasswordGenerator.png';
+export {default as SocialClub} from './projects/SocialClub.png';
+export {default as PayrollTracker} from './projects/PayrollTracker.png';
+export {default as PersonalBlog} from './projects/PersonalBlog.png';
+
