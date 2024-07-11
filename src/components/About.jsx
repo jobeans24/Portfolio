@@ -3,7 +3,7 @@ function About() {
     <section className="my-5">
       <div className="my-2">
         <div className="profile-img my-5">
-            <img src={require('../assets/IconImage.png')} />
+          <img src={require('../../assets/profile/image.jpg')} alt="Profile" />
             </div>
               <p>
                   Josie Zobel 
