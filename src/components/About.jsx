@@ -1,9 +1,10 @@
+import iconImage from "../assets/profile/IconImage.png"
 function About() {
   return (
     <section className="my-5">
       <div className="my-2">
         <div className="profile-img my-5">
-          <i src= {require("../assets/profile/")} style={{ fontSize: "96px"}}>A Little Glimpse of Me</i>
+          <i src= {iconImage} style={{ fontSize: "96px"}}>A Little Glimpse of Me</i>
         </div>
         <p>
           Josie Zobel 
